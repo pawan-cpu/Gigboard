@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"index.tsx -> ../components/Landing\":{\"id\":\"index.tsx -> ../components/Landing\",\"files\":[\"static/chunks/components_Landing_tsx.js\"]}}"
