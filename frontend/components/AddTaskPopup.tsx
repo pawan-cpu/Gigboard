@@ -70,7 +70,7 @@ const AddTaskPopup: React.FC<AddTaskPopupProps> = ({
   const [description, setDescription] = useState({});
   // const [description, setDescription] = useState({
   //   companyName: "Company Name",
-  //   companyType: "Company Type",
+  //   companyType: "company Type",
   //   postName: "Post Name",
   //   jobDuration: "20",
   //   jobType: { value: "Frontend", label: "Frontend" },
