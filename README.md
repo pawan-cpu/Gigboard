@@ -1,7 +1,7 @@
 # Azienda
 
 Azienda is a groundbreaking on-chain decentralized freelance platform that harnesses the power of blockchain technology to redefine the landscape of remote work and freelancing. 
-In a world where traditional freelancing platforms may encounter issues related to trust, security, and payment delays, CryptoHire emerges as a secure, transparent, and efficient solution.
+In a world where traditional freelancing platforms may encounter issues related to trust, security, and payment delays, Azienda emerges as a secure, transparent, and efficient solution.
 
 ![CryptoHire](https://github.com/akashpanda122/gig-board-demo/blob/main/CryptoHire.png)
 
@@ -35,7 +35,7 @@ opening up opportunities for freelancers and clients worldwide.
 
 ## Frontend
 ---
-[https://gig-board-demo.vercel.app/](https:/)
+[https://www.azienda.live/](https://www.azienda.live/)
 ### Backend
 ---
 [https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=w2eqh-vaaaa-aaaag-qcwvq-cai](https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=w2eqh-vaaaa-aaaag-qcwvq-cai)
